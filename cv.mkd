@@ -6,11 +6,11 @@ Desenvolvedor WEB
 CV
 ==
 
-Raphael de Amorim Das Virgens Gonçalves
+Raphael de Amorim Das Virgens Gonçalves<br>
 Brasileiro / Solteiro / 23anos
 
 ENDEREÇO:
-Rua Barão do Rio Branco QD D LT 27 
+Rua Barão do Rio Branco QD D LT 27 -
 Vilar dos Teles - São João de Meriti - RJ 
 
 EMAIL: 
@@ -39,7 +39,7 @@ VISUAL BASIC(básico), SQL(avançado),PHP(intermediário), JQUERY(básico), JQUE
 
 IDIOMAS
 
-Espanhol (Básico)
+Espanhol (Básico)<br>
 Inglês (Avançado)
 
 CURSOS COMPLEMENTARES
