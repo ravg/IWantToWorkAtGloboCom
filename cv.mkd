@@ -6,7 +6,7 @@ Desenvolvedor WEB
 CV
 ==
 
-<strong>Raphael de Amorim Das Virgens Gonçalves</strong><br>
+<strong>RAPHAEL DE AMORIM DAS VIRGENS GONÇALVES</strong><br>
 Brasileiro / Solteiro / 23anos
 
 ENDEREÇO:
@@ -19,13 +19,13 @@ amorim_31@msn.com / web.ravg@globo.com
 TELS: 
 (21) 26625617 / (21) 87418212
 
-FORMAÇÃO
+<STRONG>FORMAÇÃO</STRONG>
 
 • Instituto Superior de Tecnologia do Rio de Janeiro Graduação em Análise de Sistemas Informatizados 2011(concluído)
 
 • Escola Técnica Estadual Ferreira Viana Técnico em Eletrotécnica 2006(concluído)
 
-INFORMÁTICA
+<STRONG>INFORMÁTICA</STRONG>
 
 • Softwares Adobe Acrobat;Adobe Photoshop;Adobe CorelDraw;Inkscape;Macromedia Flash;Microsoft Excel;Microsoft Office;Microsoft PowerPoint;Microsoft Word;
 
@@ -37,53 +37,53 @@ INFORMÁTICA
 
 VISUAL BASIC(básico), SQL(avançado),PHP(intermediário), JQUERY(básico), JQUERY MOBILE(básico), GOOGLE WEB TOOLKIT(intermediário) ;
 
-IDIOMAS
+<STRONG>IDIOMAS</STRONG>
 
 Espanhol (Básico)<br>
 Inglês (Avançado)
 
-CURSOS COMPLEMENTARES
+<STRONG>CURSOS COMPLEMENTARES</STRONG>
 
-Inglês – Yes 2007 (concluído)  
-Montagem e Manutenção - Universidade Estácio de Sá 2007 (concluído)
-Inglês-CCAA 2003(concluído) 
-Informática Básica – Cedaspy 2004(concluído) 
-Linux - Universidade Estácio de Sá 2008(concluído) 
-Educar Bovespa - Bovespa 2008(concluído) 
-Introdução ao Desenvolvimento de Aplicações em Java - Universidade Estácio de Sá 2008(concluído) 
-Fotografia Digital-Universidade Estácio de Sá 2008(concluído) 
-Designer Gráfico Digital- ESEI 2009 (concluído) 
-Programação WEB - R&B Informática 2010 (concluído) 
+Inglês – Yes 2007 (concluído)<br>  
+Montagem e Manutenção - Universidade Estácio de Sá 2007 (concluído)<br> 
+Inglês-CCAA 2003(concluído) <br> 
+Informática Básica – Cedaspy 2004(concluído) <br> 
+Linux - Universidade Estácio de Sá 2008(concluído) <br> 
+Educar Bovespa - Bovespa 2008(concluído) <br> 
+Introdução ao Desenvolvimento de Aplicações em Java - Universidade Estácio de Sá 2008(concluído)<br>  
+Fotografia Digital-Universidade Estácio de Sá 2008(concluído) <br> 
+Designer Gráfico Digital- ESEI 2009 (concluído) <br> 
+Programação WEB - R&B Informática 2010 (concluído) <br> 
 Assistente Administrativo Completo – CEBRAC 2011 (concluído)
 
-ATIVIDADES EXTRACURRICULARES (EVENTOS E FEIRAS DE TECNOLOGIA)
+<strong>ATIVIDADES EXTRACURRICULARES</strong> 
 
-Lingüística Computacional – Projeto de Iniciação Cientifica 2008 
-Campus Party Brasil 2008 
-FLISOL 2008 
-Festival de Tecnologia de Petrópolis 2008 
-GNUGRAF 2008 
-PYCON 2008 
-2º Encontro de Informática Estácio de Sá 2008 
-SBSI 2008 
-II CAIS 2008 
-III CAIS 2010 
-PHP IN RIO 2010 
+Lingüística Computacional – Projeto de Iniciação Cientifica 2008 <br> 
+Campus Party Brasil 2008 <br> 
+FLISOL 2008 <br> 
+Festival de Tecnologia de Petrópolis 2008 <br> 
+GNUGRAF 2008 <br> 
+PYCON 2008 <br> 
+2º Encontro de Informática Estácio de Sá 2008 <br> 
+SBSI 2008 <br> 
+II CAIS 2008 <br> 
+III CAIS 2010 <br> 
+PHP IN RIO 2010 <br> 
 Campus Party Brasil 2012
 
-EXPERIÊNCIA PROFISIONAL
+<strong>EXPERIÊNCIA PROFISIONAL</strong>
 
-Construção da plataforma de um Projeto de Iniciação Científica.(www.leiaeescreva.com) 
-Construção do site do EmpresA BRAGA GEO(www.bragageo.com) 
-Elaboração da Logomarca do Programa FOCO da FAETEC. 
-Elaboração da Logomarca do III FORÚM DE FORMAÇÃO CONTINUADA da FAETEC. 
-Construção e Gerenciamento de um Blog para o III FORÚM DE FORMAÇÃO CONTINUADA da FAETEC (TERCEIROFORUM.BLOGSPOT.COM). 
-Elaboração de material audiovisual para o III FORÚM DE FORMAÇÃO CONTINUADA da FAETEC. 
-Elaboração de Certificados e Cartazes para o Programa FOCO da FAETEC. 
-Elaboração de Campanha para Loja de Roupas Femininas 
-Reformulação do site Mágico Markone (www.magicomarkone.com). 
-Web master da empresa Arte de Receber (www.artedereceber.com.br) 
-Designer Gráfico e Web da empresa BGSAC (www.bgsac.com.br) 
-E-commerce da empresa Umbê (www.umbe.com.br/site)
+Construção da plataforma de um Projeto de Iniciação Científica.(www.leiaeescreva.com) <br> 
+Construção do site do EmpresA BRAGA GEO(www.bragageo.com) <br> 
+Elaboração da Logomarca do Programa FOCO da FAETEC. <br> 
+Elaboração da Logomarca do III FORÚM DE FORMAÇÃO CONTINUADA da FAETEC. <br> 
+Construção e Gerenciamento de um Blog para o III FORÚM DE FORMAÇÃO CONTINUADA da FAETEC (TERCEIROFORUM.BLOGSPOT.COM). <br> 
+Elaboração de material audiovisual para o III FORÚM DE FORMAÇÃO CONTINUADA da FAETEC. <br> 
+Elaboração de Certificados e Cartazes para o Programa FOCO da FAETEC. <br> 
+Elaboração de Campanha para Loja de Roupas Femininas. <br> 
+Reformulação do site Mágico Markone (www.magicomarkone.com). <br> 
+Web master da empresa Arte de Receber (www.artedereceber.com.br).<br> 
+Designer Gráfico e Web da empresa BGSAC (www.bgsac.com.br). <br> 
+E-commerce da empresa Umbê (www.umbe.com.br/site).<br> 
 
 MEU PERFIL LINKEDIN : http://br.linkedin.com/pub/raphael-amorim/48/aa3/935
